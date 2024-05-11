@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/图像识别.png</file>
+        <file>icon/triangle.png</file>
+    </qresource>
+</RCC>
