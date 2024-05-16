@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images出行助手/左侧栏底色_02.png</file>
+        <file>images出行助手/左侧栏底色_01.png</file>
+        <file>images出行助手/智能闹钟.png</file>
+        <file>images出行助手/智慧生活_04.png</file>
+        <file>images出行助手/智慧生活_03.png</file>
+        <file>images出行助手/智慧生活_02.png</file>
+        <file>images出行助手/运动.png</file>
+        <file>images出行助手/选中_04.png</file>
+        <file>images出行助手/选中_03.png</file>
+        <file>images出行助手/选中_02.png</file>
+        <file>images出行助手/选中_01.png</file>
+        <file>images出行助手/洗车.png</file>
+        <file>images出行助手/未选中_04.png</file>
+        <file>images出行助手/未选中_03.png</file>
+        <file>images出行助手/未选中_02.png</file>
+        <file>images出行助手/未选中_01.png</file>
+        <file>images出行助手/松开识别.png</file>
+        <file>images出行助手/舒适度.png</file>
+        <file>images出行助手/闹钟开关_02.png</file>
+        <file>images出行助手/闹钟开关_01.png</file>
+        <file>images出行助手/旅游.png</file>
+        <file>images出行助手/晾晒.png</file>
+        <file>images出行助手/空气.png</file>
+        <file>images出行助手/开始说话.png</file>
+        <file>images出行助手/交通.png</file>
+        <file>images出行助手/化妆.png</file>
+        <file>images出行助手/过敏.png</file>
+        <file>images出行助手/感冒.png</file>
+        <file>images出行助手/防晒.png</file>
+        <file>images出行助手/穿衣.png</file>
+        <file>images出行助手/指数.png</file>
+        <file>images出行助手/选择城市.png</file>
+    </qresource>
+</RCC>

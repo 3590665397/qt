@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>syszux/syszuxpinyin</file>
+        <file>map.html</file>
+    </qresource>
+</RCC>
